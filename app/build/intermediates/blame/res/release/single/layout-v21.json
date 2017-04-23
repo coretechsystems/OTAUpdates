@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\preference.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\preference.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_addon_download_button.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_addon_download_button.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_addons.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_addons.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_available_menu.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_available_menu.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_about.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_about.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_addon_cancel_button.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_addon_cancel_button.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_main.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_main.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_addon_delete_button.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_addon_delete_button.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\ota_available.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout-v21\\ota_available.xml"
+    }
+]

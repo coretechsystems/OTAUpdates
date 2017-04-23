@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_dialog.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_credits.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_credits.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_list_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_playback_control.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_changelog.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_changelog.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_addons_list_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_addons_list_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_rom_info.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_rom_info.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_website.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_website.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_intro_overlay.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_expanded_controller_activity.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_volume_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\ota_changelog_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\ota_changelog_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_no_update.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_no_update.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_donate.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_donate.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_version.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_version.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_update.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_update.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\ota_main_actionbar_top.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\ota_main_actionbar_top.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_addons.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_addons.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_mini_controller.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_help_text.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.2.0\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_volume_control.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_app_donate.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\layout\\card_app_donate.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+    }
+]

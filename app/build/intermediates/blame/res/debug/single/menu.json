@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ota_menu_main.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\menu\\ota_menu_main.xml"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ota_menu_available.xml",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\menu\\ota_menu_available.xml"
+    }
+]

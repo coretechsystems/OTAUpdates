@@ -1,0 +1,2427 @@
+[
+    {
+        "outputFile": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endLine": 25,
+                        "endColumn": 19,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 76,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 76,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 77,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 77,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 85,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1781,
+                        "endColumn": 85,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 69,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1868,
+                        "endColumn": 69,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 58,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1655,
+                        "endColumn": 58,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 64,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 64,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 58,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 58,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 58,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 58,
+                        "endOffset": 1465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 58,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 58,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 53,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 53,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 58,
+                    "endOffset": 1046
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 58,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 58,
+                    "endOffset": 1105
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 58,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1110,
+                    "endColumn": 60,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endColumn": 60,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 60,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1531,
+                        "endColumn": 60,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 72,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 72,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 77,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 77,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 52,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 52,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 52,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 52,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 62,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2071,
+                        "endColumn": 62,
+                        "endOffset": 2129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 63,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endColumn": 63,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 56,
+                    "endOffset": 1668
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2201,
+                        "endColumn": 56,
+                        "endOffset": 2253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1673,
+                    "endColumn": 57,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 57,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 64,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 64,
+                        "endOffset": 2195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 65,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\colors.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2004,
+                        "endColumn": 65,
+                        "endOffset": 2065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endLine": 40,
+                    "endColumn": 24,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\attrs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 24,
+                        "endColumn": 24,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endColumn": 46,
+                    "endOffset": 2251
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 46,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2256,
+                    "endColumn": 43,
+                    "endOffset": 2295
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 43,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2300,
+                    "endColumn": 90,
+                    "endOffset": 2386
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2391,
+                    "endColumn": 102,
+                    "endOffset": 2489
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2494,
+                    "endColumn": 102,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 104,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 106,
+                    "endOffset": 2804
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2809,
+                    "endColumn": 108,
+                    "endOffset": 2913
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2918,
+                    "endColumn": 108,
+                    "endOffset": 3022
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3027,
+                    "endColumn": 108,
+                    "endOffset": 3131
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3136,
+                    "endColumn": 108,
+                    "endOffset": 3240
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3245,
+                    "endColumn": 108,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 106,
+                    "endOffset": 3456
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3461,
+                    "endColumn": 102,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 118,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3833
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3838,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3993,
+                    "endColumn": 104,
+                    "endOffset": 4093
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4098,
+                    "endColumn": 120,
+                    "endOffset": 4214
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4219,
+                    "endColumn": 100,
+                    "endOffset": 4315
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4320,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4462
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4467,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 102,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endColumn": 118,
+                    "endOffset": 4825
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4830,
+                    "endColumn": 106,
+                    "endOffset": 4932
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4937,
+                    "endColumn": 102,
+                    "endOffset": 5035
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5040,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 5190
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5195,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 5361
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5366,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 5510
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5515,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5675
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5680,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 5832
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5837,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 5983
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5988,
+                    "endColumn": 118,
+                    "endOffset": 6102
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6107,
+                    "endLine": 88,
+                    "endColumn": 12,
+                    "endOffset": 6474
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6479,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 6623
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6628,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 6772
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6777,
+                    "endColumn": 111,
+                    "endOffset": 6884
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6889,
+                    "endColumn": 146,
+                    "endOffset": 7031
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7036,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 7184
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7189,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 7331
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7336,
+                    "endColumn": 74,
+                    "endOffset": 7406
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7411,
+                    "endColumn": 88,
+                    "endOffset": 7495
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7500,
+                    "endColumn": 86,
+                    "endOffset": 7582
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7587,
+                    "endColumn": 100,
+                    "endOffset": 7683
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7688,
+                    "endColumn": 102,
+                    "endOffset": 7786
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7791,
+                    "endLine": 147,
+                    "endColumn": 12,
+                    "endOffset": 10854
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 10859,
+                    "endLine": 150,
+                    "endColumn": 12,
+                    "endOffset": 11040
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 11045,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 14120
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 14125,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 14318
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14323,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 14518
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14523,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 14641
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 14646,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 14764
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 14769,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 14877
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 14882,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15060
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15065,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 15191
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15196,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 15392
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15397,
+                    "endColumn": 88,
+                    "endOffset": 15481
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 15486,
+                    "endColumn": 110,
+                    "endOffset": 15592
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 15597,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 15825
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 15830,
+                    "endColumn": 100,
+                    "endOffset": 15926
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 15931,
+                    "endColumn": 94,
+                    "endOffset": 16021
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16026,
+                    "endColumn": 122,
+                    "endOffset": 16144
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16149,
+                    "endColumn": 128,
+                    "endOffset": 16273
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16278,
+                    "endColumn": 116,
+                    "endOffset": 16390
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16395,
+                    "endLine": 227,
+                    "endColumn": 12,
+                    "endOffset": 16567
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16572,
+                    "endColumn": 98,
+                    "endOffset": 16666
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 16671,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 16801
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 16806,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 16944
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 16949,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 17079
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 17084,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17198
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17203,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17399
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17404,
+                    "endLine": 242,
+                    "endColumn": 12,
+                    "endOffset": 17518
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 17523,
+                    "endColumn": 92,
+                    "endOffset": 17611
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 17616,
+                    "endColumn": 110,
+                    "endOffset": 17722
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 17727,
+                    "endColumn": 55,
+                    "endOffset": 17778
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 17783,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 17885
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 17890,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 18080
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 18085,
+                    "endLine": 253,
+                    "endColumn": 12,
+                    "endOffset": 18191
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 18196,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18324
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 18329,
+                    "endColumn": 94,
+                    "endOffset": 18419
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 18424,
+                    "endColumn": 90,
+                    "endOffset": 18510
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18515,
+                    "endColumn": 90,
+                    "endOffset": 18601
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 18606,
+                    "endColumn": 116,
+                    "endOffset": 18718
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 18723,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 18857
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 18862,
+                    "endLine": 269,
+                    "endColumn": 12,
+                    "endOffset": 19246
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 19251,
+                    "endLine": 279,
+                    "endColumn": 12,
+                    "endOffset": 19759
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 17125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 19764,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 20284
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17130,
+                        "endLine": 240,
+                        "endColumn": 12,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 20289,
+                    "endLine": 299,
+                    "endColumn": 12,
+                    "endOffset": 20964
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 20969,
+                    "endColumn": 56,
+                    "endOffset": 21021
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 21026,
+                    "endColumn": 57,
+                    "endOffset": 21079
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 21084,
+                    "endLine": 303,
+                    "endColumn": 8,
+                    "endOffset": 21209
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\10.2.0\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 21214,
+                    "endLine": 336,
+                    "endColumn": 12,
+                    "endOffset": 23251
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\theme_ragnardark.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 23256,
+                    "endLine": 340,
+                    "endColumn": 12,
+                    "endOffset": 23448
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\theme_ragnardark.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2906,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 23453,
+                    "endLine": 369,
+                    "endColumn": 12,
+                    "endOffset": 25204
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\theme_ragnarlight.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 25209,
+                    "endLine": 373,
+                    "endColumn": 12,
+                    "endOffset": 25418
+                },
+                "from": {
+                    "file": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\values-v21\\theme_ragnarlight.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2499,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2711
+                    }
+                }
+            }
+        ]
+    }
+]
