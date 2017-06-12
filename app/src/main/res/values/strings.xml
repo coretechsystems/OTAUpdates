@@ -23,7 +23,7 @@
     <!-- App Strings -->
     <string name="app_name" translatable="false">AptOS OTA</string>
     <string name="prop_name" translatable="false">ro.ota.romname</string>
-    <string name="app_version" translatable="false">2.4-finres16w4d</string>
+    <string name="app_version" translatable="false">2.4-exp27w2d1b</string>
 
     <!-- Generic strings -->
     <string name="cancel">Cancel</string>

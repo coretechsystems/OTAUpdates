@@ -12,12 +12,12 @@
         "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_holo_light.9.png"
     },
     {
-        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\list_longpressed_holo_dark.9.png",
-        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\drawable-xhdpi\\list_longpressed_holo_dark.9.png"
-    },
-    {
         "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_download_dark.png",
         "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\drawable-xhdpi\\ic_download_dark.png"
+    },
+    {
+        "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\list_longpressed_holo_dark.9.png",
+        "source": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\src\\main\\res\\drawable-xhdpi\\list_longpressed_holo_dark.9.png"
     },
     {
         "merged": "E:\\Downloads\\ProjectARC\\X ROM and AptOS\\aptos_packages-OTAUpdater\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ab_solid_holo_dark.9.png",
