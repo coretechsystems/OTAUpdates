@@ -41,6 +41,7 @@ public class DownloadRom implements Constants {
 		String fileName = "ota.zip";
 		String description = context.getResources().getString(R.string.downloading);
 		File file = RomUpdate.getFullFile(context);
+		File otazipfile = new File("/data/media/0/OTAUpdates/ota.zip");
 
 		DownloadManager.Request request = new DownloadManager.Request(Uri.parse(url));
 
@@ -59,7 +60,7 @@ public class DownloadRom implements Constants {
 		
 		// Delete any existing files
 		Utils.deleteFile(file);
-
+		Utils.deleteFile(otazipfile);
 		// Enqueue the download
 		DownloadManager downloadManager = (DownloadManager) context.getSystemService(Context.DOWNLOAD_SERVICE);
 		long mDownloadID = downloadManager.enqueue(request);

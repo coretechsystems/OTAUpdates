@@ -286,7 +286,7 @@ public class AvailableActivity extends Activity implements Constants, android.vi
 			public void onClick(DialogInterface dialog, int which) {
 				Intent intent = new Intent("eu.chainfire.flash.action.ZIP");
 				intent.setComponent(new ComponentName("eu.chainfire.flash", "eu.chainfire.flash.ui.activity.MainActivity"));
-				intent.putExtra("eu.chainfire.flash.extra.NAME", "/storage/emulated/0/OTAUpdates/ota.zip");
+				intent.putExtra("eu.chainfire.flash.extra.NAME", "/data/media/0/OTAUpdates/ota.zip");
 				intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 				startActivity(intent);
 			}

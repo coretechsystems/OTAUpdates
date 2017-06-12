@@ -12,7 +12,8 @@
  	distributed under the License is distributed on an "AS IS" BASIS,
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
-	limitations under the License.
+	limitations under the License.
+
 -->
 <resources>
 
@@ -29,7 +30,7 @@
     <string name="available_downloading">Downloading&#8230;</string>
     <string name="are_you_sure">Are you sure?</string>
     <string name="available_delete_confirm_message">Are you sure you want to delete the downloaded file?</string>
-    <string name="available_reboot_confirm">Would you like to reboot now?</string>
+    <string name="available_reboot_confirm">Would you like to flash now?</string>
     <string name="available_url_error">URL Error: Please see your ROM developer</string>
     <string name="available_reboot_manual_title">Please reboot now</string>
     <string name="available_reboot_manual_message">Please reboot to recovery and flash your ROM.\n\nYou can find it in /sdcard/Downloads</string>
